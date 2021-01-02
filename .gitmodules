@@ -1,0 +1,90 @@
+[submodule "spleshkov"]
+	path = spleshkov
+	url = https://github.com/viacheslavpleshkov/unit-factory-ucode-libmx.git
+[submodule "asvyryda"]
+	path = asvyryda
+	url = https://github.com/NastiaSvyryda/Libmx.git
+[submodule "ldobrovols"]
+	path = ldobrovols
+	url = https://github.com/leodobrovolsky/libmx.git
+[submodule "anetreba"]
+	path = anetreba
+	url = https://github.com/anetreba/Libmx
+[submodule "blevishche"]
+	path = blevishche
+	url = https://github.com/LevBD/LibMX
+[submodule "lserebriak"]
+	path = lserebriak
+	url = https://github.com/lserebri/Libmx
+[submodule "mdannyk"]
+	path = mdannyk
+	url = https://github.com/MaksimDannik/Libmx
+[submodule "mbashenko"]
+	path = mbashenko
+	url = https://github.com/MykytaBAshenko/library_on_c
+[submodule "okolevatov"]
+	path = okolevatov
+	url = https://github.com/okolevatov/libmx
+[submodule "ozahirnyi"]
+	path = ozahirnyi
+	url = https://github.com/ozahirnyi/Libmx
+[submodule "vpoliakova"]
+	path = vpoliakova
+	url = https://github.com/polyviola/libmx
+[submodule "abondarenk"]
+	path = abondarenk
+	url = https://github.com/PraydE007/Libmx
+[submodule "orubanik"]
+	path = orubanik
+	url = https://github.com/rubanik00/libmx
+[submodule "smakov"]
+	path = smakov
+	url = https://github.com/smak0v/libmx
+[submodule "vdepeshko"]
+	path = vdepeshko
+	url = https://github.com/Vladddd46/libmx
+[submodule "vnazarenko"]
+	path = vnazarenko
+	url = https://github.com/vladyslav-n/libmx
+[submodule "vstruk"]
+	path = vstruk
+	url = https://github.com/vstruk01/libmx04
+[submodule "omisakov"]
+	path = omisakov
+	url = https://github.com/warpmaster/libmx
+[submodule "ymakohon"]
+	path = ymakohon
+	url = https://github.com/yuriimakohon/libmx
+[submodule "oberdyshev"]
+	path = oberdyshev
+	url = https://github.com/berdyshevol/Libmx
+[submodule "opiskun"]
+	path = opiskun
+	url = https://github.com/alejinjer/Libmx
+[submodule "ostanislav"]
+	path = ostanislav
+	url = https://github.com/Zemerr/Libmx.git
+[submodule "ahrynko"]
+	path = ahrynko
+	url = https://github.com/ahrynko-git/ucode.git
+[submodule "mmasniy"]
+	path = mmasniy
+	url = https://github.com/mmasniy/Libmx
+[submodule "vbalachevs"]
+	path = vbalachevs
+	url = https://github.com/vladbalach/libmx
+[submodule "okhomin"]
+	path = okhomin
+	url = https://github.com/okhomin/libmx
+[submodule "amoskovsky"]
+	path = amoskovsky
+	url = https://github.com/dataminer33/libmx
+[submodule "akostanda"]
+	path = akostanda
+	url = https://github.com/akostanda/libmx
+[submodule "ihumeniuk"]
+	path = ihumeniuk
+	url = https://github.com/ivan-gumenuk/Thread-C-in-Ucode
+[submodule "trohalska"]
+	path = trohalska
+	url = https://github.com/trohalska/libmx
